@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1788908080 source:c:\users\pilar\desktop\ejerciciosmd\funcionesej.cpp
+	<iostream>
+	"FuncionesEj.h"
+
+1788915503 c:\users\pilar\desktop\ejerciciosmd\funcionesej.h
+	<string>
+
+1788915503 source:c:\users\pilar\desktop\ejerciciosmd\main.cpp
+	<iostream>
+	"FuncionesEj.h"
+	<string>
+
